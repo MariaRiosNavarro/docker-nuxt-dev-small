@@ -62,7 +62,6 @@ CMD ["npm","run", "dev", "--", "--host"]
 
 2. Create the Nuxt_DEV image using `docker build -t name_of_the_image_you_want .`
    This will read the Dockerfile and create an image based on it. If you are using Docker Desktop, you will see the image and its ID (the number below). You can also use docker ps and see it in the terminal. Copy and save the ID.
-   DockerNuxt
    ![docker](/readme_assets/three1.png)
    ![docker](/readme_assets/three2.png)
 
