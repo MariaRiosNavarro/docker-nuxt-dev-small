@@ -8,7 +8,7 @@
    `docker run -it —rm node:18 sh`
    ![docker](/readme_assets/one1.png)
 
-2. Wait for it to finish when you see this message. Install Nuxt in the environment `npx nuxi@latest init docker-nuxt`(select nuxi@3.11.1, yes).Choose your package manager (I use npm).
+2. Wait for it to finish when you see this message. Install Nuxt in the environment `npx nuxi@latest init your_name`(select nuxi@3.11.1, yes).Choose your package manager (I use npm).
    ![docker](/readme_assets/one2.png)
 
 3. We do not need a repository since we will only copy the files in another folder, and we will not need this development Docker container later.
