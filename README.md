@@ -68,6 +68,7 @@ CMD ["npm","run", "dev", "--", "--host"]
 
 3. Now you can create a container from this image with the volume direction in your project with:
    `docker run -d -p new_port_you_want:port_in_dockerfile -v ABSOLUTE_PATH_YOUR_WORK_APP:PATH_OF_YOUR_IMAGE --name NAME_TO_YOUR_CONTAINER_you_WANT name_or_ID_of_the_image`
+   **EXAMPLE**:
    ![docker](/readme_assets/three3.png)
 
 NOW you can open your port and see this (mine was 3001)
