@@ -29,7 +29,7 @@
 2. Copy the contents of the image to the desired location using `docker cp saved_id:your_folder_name .` **DO NOT FORGET THE TRAILING PERIOD AT THE END**
    ![docker](/readme_assets/two2.png)
 
-3. Check that it has been created using `ls` and navigate to the folder using `cd your_folder_name` and open your IDE, I use vsc for this, so I use `. code`
+3. Check that it has been created using `ls` and navigate to the folder using `cd your_folder_name` and open your IDE, I use vsc for this, so I use `code .`
    ![docker](/readme_assets/two3.png)
 
 Step 3
