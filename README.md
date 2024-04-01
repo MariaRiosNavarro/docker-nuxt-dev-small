@@ -1,5 +1,7 @@
 # docker-nuxt-dev-small
 
+If you need this template with tailwind there is a branch in this repository with this name (tailwind)
+
 # How to create a NUXT-DEV-CONTAINER (from one NUXT-DEV-IMAGE)
 
 ## Step 1
