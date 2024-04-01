@@ -1,6 +1,6 @@
 # docker-nuxt-dev-small
 
-# How to create a NUXT-DEV-CONTAINER
+# How to create a NUXT-DEV-CONTAINER (from one NUXT-DEV-IMAGE)
 
 ## Step 1
 
