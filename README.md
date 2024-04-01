@@ -14,7 +14,8 @@
 3. We do not need a repository since we will only copy the files in another folder, and we will not need this development Docker container later.
    ![docker](/readme_assets/one3.png)
 
-4. Enter the folder
+4. Navigate to your folder.
+
    ![docker](/readme_assets/one4.png)
 
 5. MOST IMPORTANTLY, run `npm i` in this environment, and do not close the terminal, or you will lose everything (development environment only).
