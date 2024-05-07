@@ -7,7 +7,7 @@ If you need this template with tailwind there is a branch in this repository wit
 ## Step 1
 
 1. Create a development Docker container with the minimum Node.js version required for Nuxt, which is version 18 in alpine.
-   `docker run -it —rm node:18 sh`
+   `docker run -it --rm node:18-alpine sh`
    ![docker](/readme_assets/one1.png)
 
 2. Wait for it to finish when you see this message. Install Nuxt in the environment `npx nuxi@latest init your_name`(select nuxi@3.11.1, yes).Choose your package manager (I use npm).
